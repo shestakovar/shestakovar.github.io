@@ -25,7 +25,7 @@
   * Демо: [http://130.61.160.215](http://130.61.160.215/)
 * [Blog-Backend-Django](https://github.com/shestakovar/blog-backend-django) (2021)
   * Стек: _Python, Django_
-  * Описание: SPA веб-приложение, блог на Django, бэкенд.
+  * Описание: RESTful API блога на Django, бэкенд.
 * Lawyer Landing Page (2021)
   * Стек: _HTML5, CSS3, Bootstrap, CSS Flexbox, CSS Grid, CSS3 Animations_
   * Описание: Лендинг-страница юридической компании.
@@ -52,6 +52,7 @@
 * HTML5, CSS3, Bootstrap, CSS Flexbox, CSS Grid, CSS Animations
 * Python, Django
 * C/C++, Qt
+* REST
 * Nginx
 * SQL, PostgreSQL
 * Linux, Bash
