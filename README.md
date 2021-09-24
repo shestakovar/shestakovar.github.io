@@ -24,22 +24,22 @@
   * Описание: SPA веб-приложение, блог на React, фронтенд.
   * Демо: [http://130.61.160.215](http://130.61.160.215/)
 * [Blog-Backend-Django](https://github.com/shestakovar/blog-backend-django) (2021)
-  * Стек: _Python, Django_
-  * Описание: RESTful API блога на Django, бэкенд.
+  * Стек: _Python, Django, Django REST Framework_
+  * Описание: RESTful API блога на Django REST, бэкенд.
 * Lawyer Landing Page (2021)
   * Стек: _HTML5, CSS3, Bootstrap, CSS Flexbox, CSS Grid, CSS3 Animations_
   * Описание: Лендинг-страница юридической компании.
   * Демо: [https://approachable-subrou.000webhostapp.com](https://approachable-subrou.000webhostapp.com/)
 * Модификация мураьвиного алгоритма для решения задачи Коммивояжера (2021)
   * Стек (frontend): _Vue.JS, Bootstrap-Vue, CSS Flexbox, CSS Grid_
-  * Стек (backend): _Django, Python, Ctypes_
+  * Стек (backend): _Django, Django REST, Python, Ctypes_
   * Стек (alorithms): _C++_
   * Описание: ВКР Бакалавра в МГТУ им. Н.Э.Баумана. Алгоритм написан на C++ (для многопоточности) и собран в динамическую библиотеку, которую вызывает питон с помощью Ctypes.
 * [Buy-Sell-Car](https://github.com/Buy-Sell-Car) (2021)
-  * Стек: _Python, Django, Vue.js_
+  * Стек: _Python, Django, Django REST, Vue.js_
   * Описание: SPA веб-приложение, курсовой проект по "Технологии командной разработки программного обеспечения".
 * [Dish](https://github.com/shestakovar/Web) (2020)
-  * Стек _Python, Django, Vue.js_
+  * Стек _Python, Django, Django Views, Django REST, Vue.js_
   * Описание: SPA веб-приложений для поиска и публикаций рецептов приготовления блюд, лабораторные работы по "Разработка веб-приложений" 
 * [Создание реалистичного изображения с учетом эффектов преломления на границах разнородных сред](https://github.com/shestakovar/bmstu-rod-in-glass) (2019)
   * Стек: _C++, Qt_
@@ -50,7 +50,7 @@
 * React, Redux, Redux Thunk, Redux Saga, React-Bootstrap
 * Vue.js, Vuex, BootstrapVue
 * HTML5, CSS3, Bootstrap, CSS Flexbox, CSS Grid, CSS Animations
-* Python, Django
+* Python, Django, Django REST Framework
 * C/C++, Qt
 * REST
 * Nginx
