@@ -30,7 +30,7 @@
   * Стек: _HTML5, CSS3, Bootstrap, CSS Flexbox, CSS Grid, CSS3 Animations_
   * Описание: Лендинг-страница юридической компании.
   * Демо: [https://approachable-subrou.000webhostapp.com](https://approachable-subrou.000webhostapp.com/)
-* Модификация мураьвиного алгоритма для решения задачи Коммивояжера
+* Модификация мураьвиного алгоритма для решения задачи Коммивояжера (2021)
   * Стек (frontend): _Vue.JS, Bootstrap-Vue, CSS Flexbox, CSS Grid_
   * Стек (backend): _Django, Python, Ctypes_
   * Стек (alorithms): _C++_
