@@ -19,6 +19,13 @@
     * [Погружение в Python](https://coursera.org/share/d973a66d540c8767fc2880c99ccc69b3)
 
 ## Проекты
+* [Financial-Proposal-Frontend-React](https://github.com/shestakovar/sravniru-frontend-react) (2021)
+  * Стек: _React.js, Redux, CSS Flexbox_
+  * Описание: Тестовое задание для Сравни.ру – SPA веб-приложение, страница с финансовыми предложениями.
+  * Демо: [http://130.61.160.215:81](http://130.61.160.215:81/)
+* [Financial-Proposal-Backend-Django](https://github.com/shestakovar/sravniru-backend-django) (2021)
+  * Стек: _Python, Django, Django REST Framework_
+  * Описание: Бэкенд тестового задания для Сравни.ру.
 * [Blog-Frontend-React](https://github.com/shestakovar/blog-frontend-react) (2021)
   * Стек: _React.js, Redux, Redux Saga, React-Bootstrap_
   * Описание: SPA веб-приложение, блог на React, фронтенд.
