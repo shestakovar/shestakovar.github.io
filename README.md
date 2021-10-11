@@ -1,7 +1,7 @@
 # Шестаков Андрей Романович
 
 ## Контакты
-* Почта: shestakovar@ya.ru
+* Почта: [shestakovar@ya.ru](mailto:shestakovar@ya.ru)
 * Telegram: [@shestakovar](https://t.me/shestakovar)
 * Github: [https://github.com/shestakovar](https://github.com/shestakovar)
 
