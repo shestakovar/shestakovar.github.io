@@ -20,7 +20,7 @@
 
 ## Проекты
 * [Financial-Proposal-Frontend-React](https://github.com/shestakovar/sravniru-frontend-react) (2021)
-  * Стек: _React.js, Redux, CSS Flexbox_
+  * Стек: _React.js, TypeScript, Redux, CSS Flexbox_
   * Описание: Тестовое задание для Сравни.ру – SPA веб-приложение, страница с финансовыми предложениями.
   * Демо: [http://130.61.160.215:81](http://130.61.160.215:81/)
 * [Financial-Proposal-Backend-Django](https://github.com/shestakovar/sravniru-backend-django) (2021)
